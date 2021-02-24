@@ -1,0 +1,23 @@
+body{
+    background-color: orange;
+}
+
+table{
+    width: 900px;
+    margin: auto;
+    /*border: 1px solid black;*/
+    /*border-collapse: collapse;*/
+    background-color: orange;
+    overflow: hidden;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    border-collapse: collapse;
+}
+td,th{
+    /*border-collapse: collapse;*/
+    /*border: 1px solid black;*/
+    width: 100px;
+    height: 90px;
+    
+}
